@@ -12,5 +12,10 @@ spring:
     show-sql: true
   application:
     name: UserProvider
+    
+eureka:
+  client:
+    service-url:
+      defaultZone:     
       
 ProviderVersion: UserProvider02   
