@@ -13,4 +13,4 @@ spring:
   application:
     name: UserProvider
       
-ProviderVersion: UserProvider001:7.7.32V   
+ProviderVersion: UserProvider02   
