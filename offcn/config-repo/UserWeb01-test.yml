@@ -1,11 +1,7 @@
-server:
-  port: 9002
+
 spring:
   thymeleaf:
     cache: false
-
-  application:
-    name: UserWeb
 eureka:
   client:
     service-url:
